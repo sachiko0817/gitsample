@@ -1,3 +1,7 @@
 p{
     counter-reset: violet;
 }
+
+h1{
+    color: red;
+}
